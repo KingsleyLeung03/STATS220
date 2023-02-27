@@ -1,5 +1,5 @@
 # STATS220
 
-*this
-*is
-*cool
+* this
+* is
+* cool
